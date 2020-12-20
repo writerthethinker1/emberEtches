@@ -4,18 +4,24 @@ markdown:         kramdown
 permalink:        pretty
 relative_permalinks: false
 
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://github.com/writerthethinker1/silver_press/
+title:            'Silver Press *'
+tagline:          'question freely'
+description:      'A press dedicated to original thought. We explore controversial topics academically, with reason.'
+url:              https://github.com/writerthethinker1/
 baseurl:          /silver_press/
 
 author:
-  name:           'free thinker'
+  name:           'free+thinker'
   url:            https://github.com/writerthethinker1/silver_press/
 
-paginate:         5
+paginate:         4
 
 # Custom vars
 version:          2.1.0

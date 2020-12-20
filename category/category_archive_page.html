@@ -1,0 +1,24 @@
+---
+layout: default
+title: "Topics"
+permalink: /topics/
+---
+
+<head>
+  <title>{{ page.title }}</title>
+</head>
+<h1>Topics :: Are we sure about the world?</h1>
+
+<hr/>
+{% capture tempcategories %}
+  {% for category in site.categories %}
+    {{ category[1].size | plus: 1000 }}#{{ category[0] }}#{{ category[1].size }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedtempcategories = tempcategories | split:' ' | sort | reverse %}
+{% for tempcategory in sortedtempcategories %}
+  {% assign categoryitems = tempcategory | split: '#' %}
+  {% capture categoryname %}{{ categoryitems[1] }}{% endcapture %}
+  <span><i style="font-size:30px"><a href="{{ site.baseurl }}{{ categoryname }}" style = "color: #181818"><nobr>{{ categoryname }}</nobr></a></i> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</span>
+{% endfor %}
+<hr/>
