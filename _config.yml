@@ -14,7 +14,7 @@ plugins:
 title:            'Silver Press *'
 tagline:          'question freely'
 description:      'A press dedicated to original thought. We explore controversial topics academically, with reason.'
-url:              https://github.com/writerthethinker1/
+url:              https://writerthethinker1.github.io/
 baseurl:          /silver_press/
 
 author:
