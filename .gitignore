@@ -20,8 +20,8 @@ _site
 .bundle
 .jekyll-cache
 .sass-cache
-_site
 Gemfile.lock
+_posts/silver_articles\*/silver_drafts\*
 
 .DS_Store
 vendor
