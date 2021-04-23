@@ -4,27 +4,23 @@ markdown:         kramdown
 permalink:        pretty
 relative_permalinks: false
 
+# Setup
+title:            "Silver Press *"
+tagline:          "question freely, speak freely"
+description:      "A press dedicated to original thought. We explore controversial topics academically, with reason."
+url:              "https://writerthethinker1.github.io/"
+baseurl:          "/silver_press/"
+
+paginate:         7
+
+
+git_url: "https://github.com/writerthethinker1/silver_press/"
+
+# Custom vars
+version:          2.1.1
+
 # Gems
 plugins:
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-seo-tag
-
-# Setup
-title:            'Silver Press *'
-tagline:          'question freely'
-description:      'A press dedicated to original thought. We explore controversial topics academically, with reason.'
-url:              https://writerthethinker1.github.io/
-baseurl:          /silver_press/
-
-author:
-  name:           'free+thinker'
-  url:            https://github.com/writerthethinker1/silver_press/
-
-paginate:         4
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/writerthethinker1/silver_press/
+#- jekyll-seo-tag

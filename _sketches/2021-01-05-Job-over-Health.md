@@ -3,8 +3,10 @@ layout: post
 title: 'Jobs over Health'
 category: 'political-agendas'
 preview: "Do gov'ts today put jobs that aid the economy above the health of their citizens? We aim to provide rational logical explanations for the claim: 'national principles are valued over the welfare of its citizens'. In particular, we examine one event that happened that exemplifies (conspiracy or not) that nations are slowly becoming totalitarian in interests which the entails a devaluing of the citizen into an object. Rationally, major gov't actions are rather...questionable. Truth awaits!"
-published: true
+published: false
 ---
+
+<!-- note: need a detailed analysis of 9/11 from a cool minded political point of view, references to back up claims and solid logic to make points stronger, this article is more of a beginning page and can be developed further. videos, articles, personal experiences make claims better... -->
 
 ## Why somethings don't make sense (rationally)
 
@@ -21,4 +23,4 @@ These points alone make us question what happened. At least to the point, where 
 
 > Sometimes political agendas and ways of thought can get in the way of peace and calm evacuation. Thankfully, in a time like 2021, we can have all those past notions put aside and be more rational. We doubt unreasonable thinking like that, productivity over a citizen's health, will ever return. This event marks a cold mistake and exemplifies a need for the last sentence to be true.
 
-Thank you for reading and questioning with us.
+Thank you for reading and questioning with us. $\silver$

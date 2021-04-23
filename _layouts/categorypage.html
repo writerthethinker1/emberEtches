@@ -1,12 +1,14 @@
 ---
-layout: default
+layout: page
 ---
 
-<h1>{{ page.title }}</h1>
-<hr>
+<blockquote>
+  {{ page.desc }}
+</blockquote>
+<hr/>
 <ul style="list-style-type:disclosure-closed">
 {% for post in site.categories[page.category] %}
-<li style="font-size:27px"> <span style="margin-right:2px">{{ post.date | date: "%b %Y" }}:</span> <a href="{{ site.baseurl }}{{ post.url }}" style = "color: #1a1a1a"><i>{{ post.title }} </i></a><br>
+<li style="font-size:24px"> <span style="margin-right:2px">{{ post.date | date: "%b %Y" }}:</span> <a href="{{ site.baseurl }}{{ post.url }}" style="color: #1a1a1a"><i>{{ post.title }} </i></a><br>
   </li>
 {% endfor %}
 </ul>

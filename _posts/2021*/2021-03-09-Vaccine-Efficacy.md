@@ -104,7 +104,7 @@ And if you really aren't certain, be sure to talk to your local physician first 
 
 Some people might not be apt enough to have injections and having a doctor's opinion as well as your own based on how you are mentally and physically can better help you decide if any vaccine is effective or will be effective for you. We encourage informed choices.
 
-Take care and good health throughout 2021!!!
+Take care and good health throughout 2021!!! $\silver$
 
 ---
 

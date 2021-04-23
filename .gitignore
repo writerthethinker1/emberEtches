@@ -21,7 +21,6 @@ _site
 .jekyll-cache
 .sass-cache
 Gemfile.lock
-_posts/silver_articles\*/silver_ideas\*
 
 .DS_Store
 vendor

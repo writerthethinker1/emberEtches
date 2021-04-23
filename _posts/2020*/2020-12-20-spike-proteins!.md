@@ -86,7 +86,7 @@ Thankfully, there are things we can do about them. Clean living and adherence to
 
 Will these spikes affect everyone? Who knows? My bet is about 1-10% of the population. Maybe some people can tolerate them. Some of us can’t so we know more of this disease effects on the body.
 
-*Stay healthy and calm.*
+*Stay healthy and calm.* $\silver$
 
 ### References & Notes
 

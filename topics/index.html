@@ -1,13 +1,9 @@
 ---
-layout: default
-title: "Topics"
-permalink: /topics/
+layout: page
+title: "Controversies*"
 ---
 
-<head>
-  <title>{{ page.title }}</title>
-</head>
-<h1>Topics :: Are we sure about the world?</h1>
+<blockquote>Heated topics, but we kept a cool mind when evaluating...</blockquote>
 
 <hr/>
 {% capture tempcategories %}
@@ -19,6 +15,6 @@ permalink: /topics/
 {% for tempcategory in sortedtempcategories %}
   {% assign categoryitems = tempcategory | split: '#' %}
   {% capture categoryname %}{{ categoryitems[1] }}{% endcapture %}
-  <span><i style="font-size:30px"><a href="{{ site.baseurl }}{{ categoryname }}" style = "color: #181818"><nobr>{{ categoryname }}</nobr></a></i> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</span>
+  <span><i style="font-size:28px"><a href="{{ site.baseurl }}category/{{ categoryname }}" style = "color: #181818"><nobr>{{ categoryname }}*</nobr></a></i> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</span>
 {% endfor %}
 <hr/>

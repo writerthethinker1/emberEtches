@@ -54,7 +54,7 @@ In the case of sars-cov-2, pfizer, moderna, and many others might be taking noti
 
 Above all else, please question what's going on around you and take your right to not be vaccinated if you think it will harm you. Given that others have suffered death and side-effects conditional on an injection[^5][^6], check up on your own condition and make sure you have a nutritious diet, exercise, and sleep regularly to ensure your body can take the vaccine. If you don't feel well, it's not worth the risk. *This is all our opinion and does not constitute medical advice; always check in with your doctor for a final word if you want their opinion too.*
 
-Stay informed and don't blindly accept what's happening around you. It's a way to be in touch with the world!
+Stay informed and don't blindly accept what's happening around you. It's a way to be in touch with the world! $\silver$
 
 ---
 

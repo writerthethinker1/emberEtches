@@ -10,12 +10,19 @@
     </div>
 
     <nav class="sidebar-nav">
-    <span>  <a href="{{ site.baseurl }}/about/">About</a> | <a href="{{ site.baseurl }}/topics/">Controversies* </a></span>
+    <span>  <a href="{{ site.baseurl }}/about/">About</a> | <a href="{{ site.baseurl }}/topics/">Controversies*</a></span>
+
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/issues">Issues*</a>
 
 
-
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub*</a>
-      <span class="sidebar-nav-item">Currently +{{ site.version }}</span>
+      <a class="sidebar-nav-item" href="{{ site.git_url }}">GitHub*</a>
+      {% for thing in site.posts %}
+        {% if forloop.first %}
+          {% assign posts_date = thing.date | date: '%-d %b %Y'" %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      <span class="sidebar-nav-item">Last Writing: {{ posts_date }}</span>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

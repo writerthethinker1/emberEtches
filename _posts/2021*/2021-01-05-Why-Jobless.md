@@ -45,6 +45,8 @@ For the reader:
 
 * We give up quality of life as well as lack of economic soundness when we enact social distancing on an extreme level as we are doing now. Major businesses had to completely stop operations in-person rather than slow operations in-person and major employers stopped in-person work fully rather than partially. All of this hurt other businesses that relied on them for demand such as local shops, food places and grocery markets. Instead, we saw the rise of major companies such as Walmart, Costco, and tech giants like google and Microsoft reap huge amounts of cash.[^3] It seems that these types of businesses profited (meaning their incomes were graduated during this time to a level higher than what they had during 2019) the most during the pandemic. Sure, we are sad during this time over certain things, but major businesses? *I don't think so due to high profit yield and keeping of high quality of life.*
 
+$\silver$
+
 ### References & Notes
 
 [^1]: see [open air & reducing covid cases](https://inews.co.uk/news/coronavirus-catch-outside-indoors-why-get-covid-19-explained-426628) as well as [harvard covid prevention methods](https://www.health.harvard.edu/diseases-and-conditions/preventing-the-spread-of-the-coronavirus)
