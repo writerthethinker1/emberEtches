@@ -7,7 +7,7 @@ relative_permalinks: false
 # Setup
 title:            "Silver Press *"
 tagline:          "question freely, speak freely"
-description:      "A press dedicated to original thought. We explore controversial topics academically, with reason."
+description:      "A press dedicated to original thought. We explore controversial topics academically, with reason and rationality."
 url:              "https://writerthethinker1.github.io/"
 baseurl:          "/silver_press/"
 

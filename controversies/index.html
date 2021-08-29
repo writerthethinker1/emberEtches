@@ -15,6 +15,6 @@ title: "Controversies*"
 {% for tempcategory in sortedtempcategories %}
   {% assign categoryitems = tempcategory | split: '#' %}
   {% capture categoryname %}{{ categoryitems[1] }}{% endcapture %}
-  <span><i style="font-size:28px"><a href="{{ site.baseurl }}category/{{ categoryname }}" style = "color: #181818"><nobr>{{ categoryname }}*</nobr></a></i> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</span>
+  <span><i style="font-size:25px"><a href="{{ site.baseurl }}category/{{ categoryname }}"><nobr>{{ categoryname }}*</nobr></a></i> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</span>
 {% endfor %}
 <hr/>

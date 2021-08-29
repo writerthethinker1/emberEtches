@@ -8,10 +8,12 @@ layout: default
   <span class="post-date">{{ page.date | date_to_string }} {% for category in page.categories %}
       {% capture category_name %}{{ category }}{% endcapture %}
     {% endfor %}
-    <a href="{{ site.baseurl }}category/{{ category_name }}" style="color:#9184ED;font-size:28px"><i>| {{ category_name }}*</i></a></span>
+    | <a href="{{ site.baseurl }}category/{{ category_name }}" style="color:#9184ED;font-size:23px"><i> {{ category_name }}*</i></a></span>
 
   {{ content }}
-<div class="related">
+
+<div>
+  <hr/>
   <h2>Keep Questioning!</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:5 %}

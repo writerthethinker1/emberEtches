@@ -10,12 +10,12 @@
     </div>
 
     <nav class="sidebar-nav">
-    <span>  <a href="{{ site.baseurl }}/about/">About</a> | <a href="{{ site.baseurl }}/topics/">Controversies*</a></span>
+    <span>  <a href="{{ site.baseurl }}/about/">About</a> | <a href="{{ site.baseurl }}/controversies/">Controversies*</a></span>
 
     <a class="sidebar-nav-item" href="{{ site.baseurl }}/issues">Issues*</a>
 
 
-      <a class="sidebar-nav-item" href="{{ site.git_url }}">GitHub*</a>
+      <!-- <a class="sidebar-nav-item" href="{{ site.git_url }}">GitHub*</a> -->
       {% for thing in site.posts %}
         {% if forloop.first %}
           {% assign posts_date = thing.date | date: '%-d %b %Y'" %}

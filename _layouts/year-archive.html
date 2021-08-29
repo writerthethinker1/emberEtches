@@ -3,6 +3,7 @@ layout: page
 ---
 
 <div style="margin-top:0rem">
+  <hr/>
   {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
   {% assign current_year = page.date | date: "%Y" %}
       {% for year in postsByYear %}
