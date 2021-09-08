@@ -34,7 +34,7 @@
 
 
 html {
-  font-family: 'Baskerville'; /*"PT Sans", Helvetica, Arial, sans-serif;*/
+  font-family: 'Baskerville';
 }
 
 @media (min-width: 48em) {
@@ -145,6 +145,21 @@ a.sidebar-nav-item:focus {
   }
 }
 
+
+.read_more {
+
+  font-size: 25px;
+
+}
+
+@media (max-width: 48em) {
+
+  .read_more {
+
+    font-size: 20px;
+
+  }
+}
 
 /*
  * Reverse layout

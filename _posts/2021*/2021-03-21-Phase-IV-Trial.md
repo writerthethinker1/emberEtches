@@ -3,6 +3,7 @@ layout: post
 title: 'Phase IV Trials'
 category: covid-19
 preview: "What exactly is a phase IV trial, colloquially and scientifically? Is it okay to stop a phase IV trial when an 'emergency' use authorization is declared as is the case with many of the vaccines we use internationally? If it is, how will this affect the efficacy of the vaccines? Will we possibly risk side effects we can't know of right now, and if so...what can we do to mitigate risks? All that and more in this article!"
+reference: references/Phase-IV-trial.md
 published: true
 ---
 
@@ -54,15 +55,6 @@ In the case of sars-cov-2, pfizer, moderna, and many others might be taking noti
 
 Above all else, please question what's going on around you and take your right to not be vaccinated if you think it will harm you. Given that others have suffered death and side-effects conditional on an injection[^5][^6], check up on your own condition and make sure you have a nutritious diet, exercise, and sleep regularly to ensure your body can take the vaccine. If you don't feel well, it's not worth the risk. *This is all our opinion and does not constitute medical advice; always check in with your doctor for a final word if you want their opinion too.*
 
-Stay informed and don't blindly accept what's happening around you. It's a way to be in touch with the world! $\silver$
+Stay informed and don't blindly accept what's happening around you. It's a way to be in touch with the world!
 
----
-
-### References
-
-[^1]: [explaining phase iv trials](https://symbiosisonlinepublishing.com/pharmacy-pharmaceuticalsciences/pharmacy-pharmaceuticalsciences38.php)
-[^2]: [phase iv studies (chapter)](https://oxfordmedicine.com/view/10.1093/med/9780198732860.001.0001/med-9780198732860-chapter-22)
-[^3]: [clinical trial phases](https://medicalxpress.com/news/2020-08-vaccine-clinical-trial-phases.html)
-[^4]: [emergency use authorization](https://www.verywellhealth.com/emergency-use-authorization-vs-approval-5092864)
-[^5]: [covid-19 side effects duration](https://www.bustle.com/wellness/how-long-do-covid-vaccine-side-effects-last-doctors)
-[^6]: [25 minute death following injection (elderly)](https://www.ibtimes.com/new-york-man-dies-25-minutes-after-receiving-covid-vaccine-3140382)
+{% include signature.html %}

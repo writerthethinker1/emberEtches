@@ -3,6 +3,7 @@ layout: post
 title: Spike Proteins! (Revised)
 category: covid-19
 preview: "Could there be harm to the spike proteins that make up the viral particle known as sars-cov-2 that has ruined our ways of life and economy? And...if so, what can we do about them? In this article, we explore logical and natural remedies toward improving our health against them. Updated on August 28, 2021."
+reference: references/spike-proteins.md
 published: true
 ---
 
@@ -114,37 +115,6 @@ The spikes aren’t healthy, at all. For some reason, I suspect that saliva can 
 
 Thankfully, there are things we can do about them. Clean living and adherence to a healthy diet with the items above as well as deep breathing exercises can reduce their impact.
 
-*Stay healthy and calm.* $\silver$
+*Stay healthy and calm.*
 
----
-
-### References & Notes
-
-[^1]: Note that the spikes might be most present in those with a corona infection who have developed anti-bodies. They might also overdrive the immune system into immune responses when there is no real corona infection present. This is unhealthy.
-[^2]: [Tonic Water Ingredients](https://nutrineat.com/tonic-water-ingredients)
-[^3]: [Copper Anti-Viral](https://www.iflscience.com/health-and-medicine/copper-destroys-respiratory-viruses/)
-[^4]: [Lemon Properties](https://herebydesign.net/natures-flu-remedy-anti-viral-anti-inflammatory-lemon/)
-[^5]: [Coconut Oil as Anti-Viral](https://www.nutraingredients-asia.com/Article/2020/03/11/Coconut-and-COVID-19-Philippines-studying-antiviral-properties-of-coconut-oil-as-potential-treatment)
-[^6]: [UV Light for Corona](https://www.healthline.com/health/does-uv-kill-coronavirus#myths-about-uv-light)
-[^7]: [Spearmint Benefits](https://www.organicfacts.net/health-benefits/herbs-and-spices/spearmint.html)
-[^8]: [Steriods and Corona](https://www.webmd.com/lung/news/20200723/steroids-other-than-dexamethasone-may-also-help-battle-covid-19#1)
-[^9]: [Mindfulness & Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4940234/)
-[^10]: [Breathing & Health](https://www.smithsonianmag.com/smart-news/breathing-deeply-may-actually-boost-your-bodys-immune-system-180951361/)
-[^11]: [Cold Shower Therapy](https://medium.com/@daynebarkley/how-to-easily-implement-daily-cold-showers-to-boost-your-immune-system-and-cognitive-function-32b3b7cdbd94)
-[^12]: [Vit. D and Immunity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166406/)
-[^13]: [Pumpkin Seeds & Immunity](https://www.healthline.com/nutrition/11-benefits-of-pumpkin-seeds#TOC_TITLE_HDR_12)
-[^14]: [Choline and Benefits](https://www.healthline.com/nutrition/what-is-choline#functions)
-[^15]: [Ginko's Role in Circulation](https://draxe.com/nutrition/ginkgo-biloba-benefits/)
-[^16]: [Clotting and Corona](https://www.healthline.com/health/coronavirus-and-blood-clots#risk-factors)
-[^17]: [Lower Inflamation with Turmeric](https://lyfebotanicals.com/health/turmeric-for-inflammation/)
-[^18]: [Seaweed for Health](https://www.livestrong.com/article/13729212-common-weight-loss-misconceptions/)
-
-[^19]: [Why Not Flaxseed Oil?](https://www.health.harvard.edu/heart-health/why-not-flaxseed-oil)
-[^20]: [Bitter Melon and Diabetes](https://www.healthline.com/health/diabetes/bitter-melon-and-diabetes)
-[^21]: [Ginger](https://www.drweil.com/vitamins-supplements-herbs/herbs/ginger/)
-[^22]: [10 Benefits of Cardamom](https://www.healthline.com/nutrition/cardamom-benefits)
-[^23]: [8 Benefits of Cloves](https://www.healthline.com/nutrition/benefits-of-cloves)
-[^24]: [8 Benefits of Cayenne Pepper](https://www.healthline.com/nutrition/8-benefits-of-cayenne-pepper)
-[^25]: [Taro Benefits/Nutrition](https://www.nutrition-and-you.com/taro.html)
-[^26]: [Green Tea Benefits](https://www.health.com/food/benefits-green-tea)
-[^27]: [Add Celery to Diet](https://www.healthline.com/health/food-nutrition/health-benefits-of-celery)
+{% include signature.html %}
