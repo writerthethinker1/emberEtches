@@ -118,6 +118,8 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
+  margin-left: 0.8rem;
+  margin-right: 1.4rem;
 }
 
 dt {
@@ -212,8 +214,11 @@ pre code {
 
 /* Quotes */
 blockquote {
-  padding: .5rem 1rem;
-  margin: .8rem 0;
+  padding: 0.5rem 1rem;
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+  margin-left: 3.0rem;
+  margin-right: 1rem;
   color: #7a7a7a;
   border-left: .25rem solid #e5e5e5;
 }
