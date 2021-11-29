@@ -49,12 +49,12 @@ body {
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 19px;
   line-height: 1.5;
 }
-@media (min-width: 38em) {
+@media (min-width: 20em) {
   html {
-    font-size: 20px;
+    font-size: 19px;
   }
 }
 
@@ -214,21 +214,26 @@ pre code {
 
 /* Quotes */
 blockquote {
-  padding: 0.5rem 1rem;
+  padding: 0.8rem 1rem;
   margin-top: 0.8rem;
   margin-bottom: 0.8rem;
-  margin-left: 3.0rem;
+  margin-left: 1.4rem;
   margin-right: 1rem;
+  font-style: italic;
+  font-size: 17.7px;
+  font-family: "Avenir";
   color: #7a7a7a;
   border-left: .25rem solid #e5e5e5;
 }
 blockquote p:last-child {
   margin-bottom: 0;
 }
-@media (min-width: 30em) {
+@media (min-width: 20em) {
   blockquote {
-    padding-right: 5rem;
+    padding-right: 0.3rem;
     padding-left: 1.25rem;
+    font-size: 16.7px;
+    margin-right: 1rem;
   }
 }
 
@@ -414,7 +419,7 @@ a.pagination-item:hover {
   background-color: #f5f5f5;
 }
 
-@media (min-width: 30em) {
+@media (min-width: 28em) {
   .pagination {
     margin: 3rem 0;
   }
