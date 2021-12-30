@@ -5,7 +5,7 @@ picture: silver.jpeg
 caption: "A silver ring."
 ---
 
-Welcome to the Silver Press! We are an *unbiased* news aggregation source that provides rational referenced information about topics most consider heated or controversial. We explain them in a *cool manner* so as to keep happy vibes while still maintaining awareness. It all started off with the model question(s) way back in December 2020...
+Welcome to the Silver Press! Hello There! We are an *unbiased* news aggregation source that provides rational referenced information about topics most consider heated or controversial. We explain them in a *cool manner* so as to keep happy vibes while still maintaining awareness. It all started off with the model question(s) way back in December 2020...
 
 **Model Questions:** Is the world you live in exactly correct to the best of your knowledge? Could there be such things as **'hidden agendas'** and **'auxiliary motives'** behind many of the events we witness everyday in life, especially major ones? And even without the idea of any conspiracy, can we even state that what goes on around us globally is sane for the most part, as in...in line with well posed thinking and paralleling **logical standards?** Can we even claim the current state of affairs is sensible? If so...**how can we be proactive about it rather than be slumped down in thought, reactive?**
 
