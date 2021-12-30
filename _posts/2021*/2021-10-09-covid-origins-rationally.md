@@ -5,7 +5,7 @@ category: "covid-19"
 preview: "We will rationally take up the first side of the argument to the origins of sars-cov-2; that it is man-made. Primarily, that it came from Wuhan Labs as a direct consequence of Gain of Function research and that there are military ties to the virus. We're going to look at an analysis of information surrounding this side of the debate. All from online sources. Enjoy! Stay alert for part II!"
 reference: references/origins_part_i.md
 picture: covid.jpeg
-caption: "Is is man-made? Could they make it in a lab?"
+caption: "Is it man-made? Could they make it in a lab?"
 published: true
 ---
 
