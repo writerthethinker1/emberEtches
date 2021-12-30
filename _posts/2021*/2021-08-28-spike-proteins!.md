@@ -4,6 +4,8 @@ title: Spike Proteins! (Revised)
 category: covid-19
 preview: "Could there be harm to the spike proteins that make up the viral particle known as sars-cov-2 that has ruined our ways of life and economy? And...if so, what can we do about them? In this article, we explore logical and natural remedies toward improving our health against them. Updated on August 28, 2021."
 reference: references/spike-proteins.md
+picture: spikes.jpeg
+caption: "Are they here? Everywhere?"
 published: true
 ---
 

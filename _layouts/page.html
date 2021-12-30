@@ -4,5 +4,15 @@ layout: default
 
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
+
+  {% if page.picture %}
+
+  <p>
+      <img src="{{ site.baseurl }}{{ site.images }}/{{ page.picture }}" width="100%" height="10%" />
+      <center><em style="text-align:center">{{ page.caption }}</em></center>
+  </p>
+
+  {% endif %}
+  
   {{ content }}
 </div>

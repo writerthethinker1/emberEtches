@@ -4,6 +4,8 @@ title: 'Vaccine Effectiveness Covid-19 (Revised)'
 category: covid-19
 preview: "Are covid vaccines effective? Should you take them? What exactly is the advertised label in terms we understand? Read on to find out! Both for you and the welfare of those around you. Updated on August 28, 2021."
 reference: references/vaccine-efficacy.md
+picture: vaccines.jpeg
+caption: "Should you get the jab? Is it safe?"
 published: true
 ---
 

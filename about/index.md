@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+picture: silver.jpeg
+caption: "A silver ring."
 ---
 
 Welcome to the Silver Press! We are an *unbiased* news aggregation source that provides rational referenced information about topics most consider heated or controversial. We explain them in a *cool manner* so as to keep happy vibes while still maintaining awareness. It all started off with the model question(s) way back in December 2020...
@@ -20,8 +22,6 @@ We hope you enjoy this journey for the truth and question for yourself, because 
 > "Think freely and speak freely in the quest for *truth*..." --- Silver Press
 
 Enjoy your day and have a peaceful time questioning and learning more about the world we all share and co-exist in...
-
-![Amythist]({{ site.baseurl }}silver-storage/silver_pics/silver.jpeg)
 
 {% include signature.html %}
 

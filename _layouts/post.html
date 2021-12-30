@@ -10,6 +10,15 @@ layout: default
     {% endfor %}
     | <a href="{{ site.baseurl }}category/{{ category_name }}" style="color:#9184ED;font-size:22px"><i> {{ category_name }}*</i></a></span>
 
+  {% if page.picture %}
+
+  <p>
+      <img src="{{ site.baseurl }}{{ site.images }}/{{ page.picture }}" width="100%" height="10%" />
+      <center><em style="text-align:center">{{ page.caption }}</em></center>
+  </p>
+
+  {% endif %}
+
   {{ content }}
 
 <div>

@@ -10,6 +10,7 @@ tagline:          "question freely, speak freely"
 description:      "A press dedicated to original thought. We explore controversial topics academically, with reason and rationality."
 url:              "https://writerthethinker1.github.io/"
 baseurl:          "/silver_press/"
+images: "silver-storage/silver_pics"
 
 paginate:         4
 
