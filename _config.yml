@@ -11,6 +11,7 @@ description:      "A press dedicated to original thought. We explore controversi
 url:              "https://writerthethinker1.github.io/"
 baseurl:          "/silver_press/"
 images: "silver-storage/silver_pics"
+date_format: "%B %-e, %Y"
 
 paginate:         4
 
