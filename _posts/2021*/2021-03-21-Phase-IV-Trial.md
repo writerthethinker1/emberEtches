@@ -2,7 +2,7 @@
 layout: post
 title: 'Phase IV Trials'
 category: covid-19
-preview: "What exactly is a phase IV trial, colloquially and scientifically? Is it okay to stop a phase IV trial when an 'emergency' use authorization is declared as is the case with many of the vaccines we use internationally? If it is, how will this affect the efficacy of the vaccines? Will we possibly risk side effects we can't know of right now, and if so...what can we do to mitigate risks? All that and more in this article!"
+preview: "What exactly is a phase IV trial, colloquially and scientifically? Is it okay to stop a phase IV trial when an 'emergency' use authorization is declared as is the case with many of the vaccines we use internationally? Will we possibly risk side effects we can't know of right now? All that and more in this article!"
 reference: references/Phase-IV-trial.md
 picture: trials.jpeg
 caption: "How well done are the trials?"

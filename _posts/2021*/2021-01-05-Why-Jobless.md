@@ -2,7 +2,7 @@
 layout: post
 title: 'Simple Explanation: Lack of Jobs'
 category: covid-19
-preview: "Why are we losing jobs? Why are some people turning to gov't assistance for sufficient funds? Why are people not able to go back to work? Is it simply corona? We give simple and basic explanations as to why we are 'losing' jobs and people are feeling lack of life satisfaction despite certain accommodations for life. Is it the job nature? Unemployment is always there virus or not, why is it more prevalent now? Greed? Corruption? Policy Making? Read on to find out."
+preview: "Why are we losing jobs? Why are some people turning to gov't assistance for sufficient funds? Why are people not able to go back to work? Is it simply corona? Is it the job nature? Greed? Corruption? Policy Making? Read on to find out."
 reference: references/Why-Jobless.md
 picture: jobs.jpeg
 caption: "Lack of employment in the pandemic? Every wonder why? Read on!"
