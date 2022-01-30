@@ -1,29 +1,32 @@
 ---
 layout: page
 title: About
-picture: silver.jpeg
-caption: "A silver ring."
 ---
 
-Welcome to the Silver Press! We are an *unbiased* *ad-free* news aggregation source that provides rational referenced information about topics most consider heated or controversial. We explain them in a *cool manner* so as to keep happy vibes while still maintaining awareness. You can enjoy your favorite controversial news without the annoying ads in between too! 
+Welcome to the Silver Press! We are an *unbiased* *ad-free* news aggregation source that provides rational referenced information about topics most consider heated or controversial. You can enjoy your favorite controversial news without the annoying ads in between too!
 
-It all started off with the model question(s) way back in December 2020...
+Could there be such things as **hidden agendas** and **auxiliary motives** behind many of the events we witness everyday in life, especially major ones? And even without the idea of any conspiracy, can we even state that what goes on around us globally is sane for the most part, as in...in line with well posed thinking and paralleling **logical standards?** Can we even claim the current state of affairs is sensible?
 
-**Model Questions:** Is the world you live in exactly correct to the best of your knowledge? Could there be such things as **'hidden agendas'** and **'auxiliary motives'** behind many of the events we witness everyday in life, especially major ones? And even without the idea of any conspiracy, can we even state that what goes on around us globally is sane for the most part, as in...in line with well posed thinking and paralleling **logical standards?** Can we even claim the current state of affairs is sensible? If so...**how can we be proactive about it rather than be slumped down in thought, reactive?**
+> We use *reason, logical thinking, and credible references* to give you answers to some questions about conspiracies, all in an online article format.
 
-> "Sure this issue is not able to be tolerated well both physically and mentally, but in spite of this, are there still things we can do about it? Can we still react calmly and with reason toward many events that bother us so that we don't feel the effects *long term*?" --- Silver Press
+### Can I Request an Article?
 
-Knowing this, what's the best way to address an inquiry? Critical as in...a short but thorough means to find truth in things. We use *reason, logical thinking, and credible references!*
+Absolutely! For a small fee, you can directly send us an inquiry detailing what conspiracy theory you want a logical analysis of and how strong of an analysis you need. You also get to keep a PDF document of the article signed by the writers with the *silver sign* to authenticate it! Enjoy!
+
+### Wait, can we go deeper?
+
+If you like the articles, there are books too! They are reasonably priced and give you a critical look inside big corporations, greed, environmental decline, and hidden agendas. Topics include: **Big Pharma, Planned Genocides, UFOs, Weather Manipulation, Bermuda Triangle, Alchemy, Hidden Technology, Secret Societies, New World Order, and so on.** All that and more as books!
+
+> Your purchases/donations help us build the site better, make more articles, and go further into conspiracies. End corporate greed and corruption!
 
 We hope you enjoy this journey for the truth and question for yourself, because our motto is...
 
----
-
-**Silver Motto:** Don't just think...
-
 > "Think freely and speak freely in the quest for *truth*..." --- Silver Press
 
-Enjoy your day and have a peaceful time questioning and learning more about the world we all share and co-exist in...
+More later!
+
+<img src="{{ site.baseurl }}{{ site.images }}/silver.jpeg" width="100%" height="10%" />
+<center><em style="text-align:center">A silver ring.</em></center>
 
 {% include signature.html %}
 
