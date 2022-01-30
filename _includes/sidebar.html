@@ -10,9 +10,12 @@
     </div>
 
     <nav class="sidebar-nav">
-    <span>  <a href="{{ site.baseurl }}/about/">About</a> | <a href="{{ site.baseurl }}/controversies/">Controversies*</a></span>
+    <span>  <a href="{{ site.baseurl }}/about/">About</a> | <a href="{{ site.baseurl }}/controversies/">Controversies*</a></span><br>
 
-    <a class="sidebar-nav-item" href="{{ site.baseurl }}/issues">Issues*</a>
+    <span>
+    <a href="{{ site.baseurl }}/issues">Issues*</a> |
+    <a href="{{ 'feed.xml' | relative_url }}">RSS*</a>
+    </span>
 
 
       <!-- <a class="sidebar-nav-item" href="{{ site.git_url }}">GitHub*</a> -->

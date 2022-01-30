@@ -18,6 +18,27 @@ paginate:         4
 
 git_url: "https://github.com/writerthethinker1/silver_press/"
 
+# generate social links in about page.
+social_links:
+  #twitter:
+  # github:
+  rss: RSS
+  # dribbble:
+ #facebook: Ramneek Narayan
+  # flickr:
+  # instagram:
+  # linkedin:
+  # pinterest:
+  # youtube:
+  # youtube_channel:
+  # youtube_channel_name:
+  # telegram:
+  # googleplus:
+  # microdotblog:
+  #reddit:
+  # tumblr:
+
+
 # Custom vars
 version:          2.1.1
 
