@@ -46,4 +46,5 @@ version:          2.1.1
 plugins:
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-feed
 #- jekyll-seo-tag
