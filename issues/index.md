@@ -2,7 +2,6 @@
 layout: page
 title: "Issues*"
 picture: pages.jpeg
-caption: "New year, new things to do. Move forward, never backwards..."
 ---
 
 <hr/>

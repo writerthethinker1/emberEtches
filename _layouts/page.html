@@ -9,10 +9,14 @@ layout: default
 
   <p>
       <img src="{{ site.baseurl }}{{ site.images }}/{{ page.picture }}" width="100%" height="10%" />
-      <center><em style="text-align:center">{{ page.caption }}</em></center>
+      <center><em style="text-align:center">
+        {% if page.caption %}
+          {{ page.caption }}
+        {% endif %}
+      </em></center>
   </p>
 
   {% endif %}
-  
+
   {{ content }}
 </div>
