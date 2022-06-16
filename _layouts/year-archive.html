@@ -15,7 +15,7 @@ layout: page
           <ul style="list-style-type:disclosure-closed">
             {% for post in month.items %}
             {% assign d = post.date | date: "%-d" %}
-              <li style="font-size:24px">{{ post.date | date_to_string }}: <a href="{{ site.baseurl }}{{ post.url }}" style="color:#9184ED"><i>{{ post.title }}</i></a>
+              <li style="font-size:24px">{{ post.date | date_to_string }}: <a href="{{ site.baseurl }}{{ post.url }}"><i>{{ post.title }}</i></a>
               </li>
             {% endfor %}
           </ul>

@@ -5,18 +5,18 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            "Silver Press *"
+title:            "ember Etches*"
 tagline:          "question freely"
-description:      "It's time for the truth! We explore heated topics rationally."
+description:      "It's time for the truth!"
 url:              "https://writerthethinker1.github.io/"
-baseurl:          "/silver_press/"
-images: "silver-storage/silver_pics"
+baseurl:          "/emberEtches/"
+images: "ember-storage/ember_pics"
 date_format: "%B %-e, %Y"
 
 paginate:         4
 
 
-git_url: "https://github.com/writerthethinker1/silver_press/"
+# git_url: "https://github.com/writerthethinker1/emberEtches/"
 
 # generate social links in about page.
 social_links:

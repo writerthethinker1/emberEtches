@@ -8,7 +8,7 @@ layout: default
   <span class="post-date" style="font-size:25px"><i>{{ page.date | date: site.date_format }}</i> {% for category in page.categories %}
       {% capture category_name %}{{ category }}{% endcapture %}
     {% endfor %}
-    | <a href="{{ site.baseurl }}category/{{ category_name }}" style="color:#9184ED;font-size:22px"><i> {{ category_name }}*</i></a></span>
+    | <a href="{{ site.baseurl }}category/{{ category_name }}" style="font-size:22px"><i> {{ category_name }}*</i></a></span>
 
   {% if page.picture %}
 
