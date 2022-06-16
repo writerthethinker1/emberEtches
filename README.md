@@ -1,4 +1,4 @@
-## Readme.md: Silver Press
+## Readme.md: emberEtches
 
 A blog about controversial topics made using **Mark Otto's** theme *Hyde*. Check the theme out [here!](https://github.com/poole/hyde).
 
