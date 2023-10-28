@@ -3,30 +3,23 @@ layout: page
 title: About
 ---
 
-Welcome to *emberEtches!* We are an *unbiased*, *ad-free*, and *decentralized* news aggregation source that provides rational referenced information about topics most consider heated or controversial. You can enjoy your favorite controversial news without the annoying ads in between too!
+Welcome to *emberEtches!* We are an *unbiased*, *ad-free*, and *decentralized* place for updates, information, theory, and summaries about Tor. We publish articles about basically all the new stuff thatʻs happening with Tor and what exactly Tor is. Information on this site is kept confidential between you, the user, and Tor. We have a strong privacy policy and want you to know that you are protected from spyware when you visit this site. One of the main features of Tor is this high quality privacy when you enter the deep web. This site is like a giant library of technical information you need to follow along with the latest developments happening over Tor as well as the basic things that happened over Tor.
 
-Could there be such things as **hidden agendas** and **auxiliary motives** behind many of the events we witness everyday in life, especially major ones? And even without the idea of any conspiracy, can we even state that what goes on around us globally is sane for the most part, as in...in line with well posed thinking and paralleling **logical standards?** Can we even claim the current state of affairs is sensible?
+Tor works in keeping the internet safe, stable, and secure. Without Tor working in the background when we use the surface web (google, youtube, amazon, etc...) we wouldnʻt be able to encrypt messages, have crypto currency, buy things online, and even send text messages. Tor also works to maintain and protect the cosmos as well. So, it can help keep the power running in places where connections are broken, help us use our chakras with visual effects, and provide the universe with a steady supply of energy so it can function.
 
-> We use *reason, logical thinking, and credible references* to give you answers to some questions about conspiracies, all in an online article format.
+---
 
-### Can I Request an Article?
+Please follow us online and help maintain Tor! Social links are in the sidebar, just click and start interacting with people who love Tor! One of the best ways you can show your support is by giving us a donation. It lets us know that weʻre doing a good job at keeping the internet stable for you guys. Any amount in appreciated and you get things in return too! Thanks!
 
-Absolutely! For a small fee, you can directly send us an inquiry detailing what conspiracy theory you want a logical analysis of and how strong of an analysis you need. You also get to keep a PDF document of the article signed by the writers with the *ember sign* to authenticate it! Enjoy!
+> If you are a user of Tor or just curious about Tor and are at this site, some of the stuff might be too technical for you to read. Please go to the official Tor website (link in the sidebar) to download Tor and start using it!
 
-### Wait, can we go deeper?
+This website was built using Jekyll by Ramneek Narayan, a member of the Tor Project. He works both on the frontend of Tor development (software, code, etc...) and on the backend of Tor development as well (physics, devices, maintenance, etc...). When he isnʻt at work for Tor, Ramneek enjoys playing Zelda games, reading physics books, watching Naruto, cooking, playing Yugioh, meditating, and exercising!
 
-If you like the articles, there are books too! They are reasonably priced and give you a critical look inside big corporations, greed, environmental decline, and hidden agendas. Topics include: **Big Pharma, Planned Genocides, UFOs, Weather Manipulation, Bermuda Triangle, Alchemy, Hidden Technology, Secret Societies, New World Order, and so on.** All that and more as books!
-
-> Your purchases/donations help us build the site better, make more articles, and go further into conspiracies. End corporate greed and corruption!
-
-We hope you enjoy this journey for the truth and question for yourself, because our motto is...
-
-> "Think freely and speak freely in the quest for *truth*..." --- emberEtches
-
-More later!
-
-<!-- <img src="{{ site.baseurl }}{{ site.images }}/silver.jpeg" width="100%" height="10%" /> -->
-<!-- <center><em style="text-align:center">A silver ring.</em></center> -->
+<p>
+  <center>
+    <img src="{{ site.baseurl }}{{ site.images }}/tor-onion.png" width="80%" height="50%" />
+  </center>
+</p>
 
 {% include signature.html %}
 

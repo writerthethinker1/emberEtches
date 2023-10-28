@@ -13,7 +13,9 @@ layout: default
   {% if page.picture %}
 
   <p>
+    <center>
       <img src="{{ site.baseurl }}{{ site.images }}/{{ page.picture }}" width="100%" height="10%" />
+    </center>
       <center><em style="text-align:center">{{ page.caption }}</em></center>
   </p>
 
@@ -23,7 +25,7 @@ layout: default
 
 <div>
   <hr/>
-  <h3>Keep Questioning!</h3>
+  <h3>More Onion Articles!</h3>
   <ul class="related-posts">
     {% for post in site.related_posts limit:5 %}
       <li>

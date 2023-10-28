@@ -6,27 +6,57 @@
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
+      <p class="lead"><a href="https://www.torproject.org">{{ site.description }}</a></p>
     </div>
 
     <nav class="sidebar-nav">
-    <span>  <a href="{{ site.baseurl }}/about/">About</a> | <a href="{{ site.baseurl }}/controversies/">Controversies*</a></span><br>
-
-    <span>
-    <a href="{{ site.baseurl }}/issues">Issues*</a> |
-    <a href="{{ 'feed.xml' | relative_url }}">RSS*</a>
+    <span>  <a href="{{ site.baseurl }}/about/">About</a> | <a href="{{ site.baseurl }}/topics/">Topics*</a> | <a href="{{ site.baseurl }}/log">Log*</a> <br> <a href="https://donate.torproject.org">Donate**</a>
     </span>
 
+    <br>
 
-      <!-- <a class="sidebar-nav-item" href="{{ site.git_url }}">GitHub*</a> -->
+<div class="social-buttons" style="margin-top:3%">
+  <a href="{{ 'feed.xml' | relative_url }}" class="social-button social-button--rss">
+    <i class="fa fa-rss"></i>
+  </a> &nbsp;
+  <a class="social-button social-button--twitter"
+    href="https://twitter.com/torproject">
+    <i class="fa fa-twitter"></i></a> &nbsp;
+  <a class="social-button social-button--linkedin"
+    href="https://www.linkedin.com/company/tor-project">
+    <i class="fa fa-linkedin"></i></a> &nbsp;
+  <a class="social-button social-button--telegram"
+    href="https://t.me/torproject">
+    <i class="fa fa-telegram"></i></a> &nbsp;
+  <a class="social-button social-button--instagram"
+    href="https://www.instagram.com/torproject/">
+    <i class="fa fa-instagram"></i></a> &nbsp;
+  <br>
+  <a class="social-button social-button--discourse"
+    href="https://forum.torproject.org">
+    <i class="fab fa-discourse"></i></a> &nbsp;
+  <a class="social-button social-button--github"
+    href="https://github.com/torproject">
+    <i class="fab fa-github"></i></a> &nbsp;
+  <a class="social-button social-button--mastodon"
+    href="https://mastodon.social/@torproject">
+    <i class="fab fa-mastodon"></i></a> &nbsp;
+  <a class="social-button social-button--gitlab"
+    href="https://gitlab.torproject.org/tpo/team">
+    <i class="fab fa-gitlab"></i></a>
+</div>
+<!-- end social links -->
+
       {% for thing in site.posts %}
         {% if forloop.first %}
           {% assign posts_date = thing.date | date: '%-d %b %Y'" %}
           {% break %}
         {% endif %}
       {% endfor %}
-      <span class="sidebar-nav-item">Latest Article: {{ posts_date }}</span>
+      <span class="sidebar-nav-item">Latest Update: {{ posts_date }}</span>
+      <p>Tor Version: 4.28</p>
     </nav>
+
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
