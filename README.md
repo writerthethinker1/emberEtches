@@ -1,9 +1,3 @@
 ## Readme.md: emberEtches
 
-A blog about controversial topics made using **Mark Otto's** theme *Hyde*. Check the theme out [here!](https://github.com/poole/hyde).
-
-Explore and learn to question more about what happens around you. Do you really know what is happening, enough to have an accurate description of reality? Can you really say and think that what happens in the world we all live in and share is rationally sane? Here, we explore heated topics in a *cool manner* to promote a better view of what happens as we go about our daily lives.
-
-More on the site...check the link in the 'about' section...
-
-Relax and have a wonderful day! Stay in zen...
+The official Tor blog by the Tor project. We post news, updates, and the latest technologies on the Deep Web. Most of the articles here are technical, meaning they have heavy mathematics, logic, and words computer scientists would know. The general public is more than welcome to visit, however, the content might not be so easy to understand. Content is tailored for computer scientists and web developers for the deep web. We talk a lot about privacy, vpn services, onion routers, and what exactly it means to create and use the deep web. We are always making sure the deep web is protected and maintained! Thanks for reading and help us make the deep web really stand out! Donate to the Tor project! 
